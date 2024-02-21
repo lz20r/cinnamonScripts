@@ -21,7 +21,7 @@ echo -e "\e[33m - Cinammon Host™'s Discord Support Server en discord: https://
 echo -e "\e[33m - Momo™'s Discord Support Server: https://discord.gg/3TUf9JBVbt \e[0m"
 echo -e "\e[33m - Cinammon™'s Donations: https://www.patreon.com/cinammon \e[0m"
 echo -e "\e[33m - Cinammon™'s Donations: https://www.patreon.com/cinammon \e[0m"
-echo -e "\e[33m - Momo bot's Invitation: https://discord.gg/ezfkXgekw7"   \e[0m"
+echo -e "\e[33m - Momo bot's Invitation: https://discord.gg/ezfkXgekw7   \e[0m"
 echo " "
 echo ""
 echo -e ".\e[31m                                         © Cinammon.es 2024 \e[0m"
